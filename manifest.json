@@ -14,7 +14,7 @@
       "purpose": "maskable"
     }
   ],
-  "start_url": "./ionic/tab1",
+  "start_url": "./ionic-2/tab1",
   "scope": "./ionic-2/",
   "display": "standalone",
   "theme_color": "#ffffff",

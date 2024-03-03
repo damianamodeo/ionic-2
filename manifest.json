@@ -14,8 +14,8 @@
       "purpose": "maskable"
     }
   ],
-  "start_url": ".",
-  "scope": "/",
+  "start_url": "./tab2",
+  "scope": ".",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff"
